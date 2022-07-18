@@ -9,8 +9,8 @@ sites:
     url: https://www.trip7.co.jp/api/hotel_company/get/1
   - name: CNPK
     url: https://www.conepoke.com/api/Commodity/count/all
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Test Secret Site
+    url: $MY_SECRET_SITE_1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
