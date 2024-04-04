@@ -22,7 +22,7 @@
     "url": "https://www.conepoke.com/api/Commodity/count/all",
     "icon": "https://icons.duckduckgo.com/ip3/www.conepoke.com.ico",
     "slug": "cnpk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 840,
     "timeMonth": 922,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 0
+    }
   }
 ]
