@@ -10,9 +10,9 @@ sites:
   - name: CNPK
     url: https://www.conepoke.com/api/Commodity/count/all
   - name: OT Test
-   url: $OT_TEST
+    url: $OT_TEST
   - name: OT Prod
-   url: $OT_PRODUCTION
+    url: $OT_PRODUCTION
   # - name: Test Secret Site
   #  url: $MY_SECRET_SITE_1
 
