@@ -1,7 +1,7 @@
 url: https://www.trip7.co.jp/api/hotel_company/get/1
-status: down
-code: 404
-responseTime: 928
-lastUpdated: 2025-01-27T23:12:34.043Z
+status: up
+code: 200
+responseTime: 1081
+lastUpdated: 2025-01-28T14:53:36.356Z
 startTime: 2022-07-17T06:22:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
