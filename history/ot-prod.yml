@@ -1,7 +1,7 @@
 url: $OT_PRODUCTION
-status: down
-code: 503
-responseTime: 727
-lastUpdated: 2025-03-14T13:13:09.785Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2025-03-14T22:21:06.246Z
 startTime: 2024-07-02T05:29:51.103Z
 generator: Upptime <https://github.com/upptime/upptime>
