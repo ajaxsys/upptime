@@ -1,7 +1,7 @@
 url: $OT_TEST
-status: down
-code: 503
-responseTime: 681
-lastUpdated: 2025-03-22T23:13:12.383Z
+status: up
+code: 200
+responseTime: 839
+lastUpdated: 2025-03-23T22:21:44.280Z
 startTime: 2024-07-02T05:29:50.160Z
 generator: Upptime <https://github.com/upptime/upptime>
