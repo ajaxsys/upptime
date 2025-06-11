@@ -1,7 +1,7 @@
 url: $OT_SU
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-11T14:26:47.262Z
+status: up
+code: 200
+responseTime: 1124
+lastUpdated: 2025-06-11T14:47:13.534Z
 startTime: 2024-11-18T04:09:26.417Z
 generator: Upptime <https://github.com/upptime/upptime>
